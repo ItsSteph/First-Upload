@@ -6,7 +6,7 @@ namespace GitHubProject1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi Guthub");
+            Console.WriteLine("Hi Github");
         }
     }
 }
